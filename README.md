@@ -4,8 +4,21 @@
 🔍 Passionate about data analysis, trading algorithms, & building cool tech
 🌟 Love exploring new technologies & creating impactful solutions
 
-🌐 Socials:
-Facebook Instagram LinkedIn Pinterest Stack Overflow X
+## 🔗 🌐 Socials:  
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-aabid-hussain-852a72255/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/aabid2947" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/aabid2947" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://portfolio-alpha-neon-44.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 💻 Tech Stack:  
 ![Python](https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
