@@ -1,8 +1,10 @@
 ## 💫 About Me:  
-🚀 Tech enthusiast & software developer  
-👨‍💻 Working on ML projects, automation scripts, & AI tools  
-🔍 Passionate about data analysis, trading algorithms, & building cool tech  
-🌟 Love exploring new technologies & creating impactful solutions  
+- 🚀 Tech enthusiast & software developer  
+- 👨‍💻 Working on ML projects, automation scripts, & AI tools  
+- 🔍 Passionate about data analysis, trading algorithms, & building cool tech  
+- 🌟 Love exploring new technologies & creating impactful solutions  
+
+--- 
 
 ## 🔗 🌐 Socials:  
 <p align="left">
@@ -19,6 +21,8 @@
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+---
 
 💻 Tech Stack:  
 ![Python](https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
@@ -56,15 +60,18 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
+---
+
 ## 📊 GitHub Stats:
 ![Aabid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabid2947&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabid2947&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=aabid2947&theme=radical&hide_border=true)
 
 
+---
 
 ## 🏆 GitHub Trophies
-## ![trophy](https://github-profile-trophy.vercel.app/?username=aabid2947&theme=radical&no-frame=true&row=2&column=4)
+- ![trophy](https://github-profile-trophy.vercel.app/?username=aabid2947&theme=radical&no-frame=true&row=2&column=4)
 
 
 ## ✍️ Random Dev Quote
