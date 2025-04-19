@@ -74,7 +74,9 @@
 - ![trophy](https://github-profile-trophy.vercel.app/?username=aabid2947&theme=radical&no-frame=true&row=2&column=4)
 
 
-## ✍️ Random Dev Quote
+## ✍️ Random Dev Quote  
+![Dev Quote](https://camo.githubusercontent.com/5b5c039e0e17338e87aa9eaf0026a06f8b9774c8d752415a92e7ba581157abb8/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c)
+[Link to Source](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ## 🔝 Top Contributed Repo
