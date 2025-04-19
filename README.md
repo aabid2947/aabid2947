@@ -58,13 +58,13 @@
 
 ## 📊 GitHub Stats:
 ![Aabid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabid2947&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabid2947&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabid2947&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=aabid2947&theme=radical&hide_border=true)
-![Aabid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabid2947&show_icons=true&theme=radical&count_private=true)
 
 
 
 ## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=aabid2947&theme=radical&no-frame=true&row=2&column=4)
 
 
 ## ✍️ Random Dev Quote
