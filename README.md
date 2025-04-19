@@ -57,8 +57,10 @@
 
 
 ## 📊 GitHub Stats:
-![Aabid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabid2947&show_icons=true&theme=radical)
-
+![Aabid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabid2947&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabid2947&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=aabid2947&theme=radical&hide_border=true)
+![Aabid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabid2947&show_icons=true&theme=radical&count_private=true)
 
 
 
