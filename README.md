@@ -64,7 +64,7 @@
 
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=aabid2947&theme=radical&no-frame=true&row=2&column=4)
+## ![trophy](https://github-profile-trophy.vercel.app/?username=aabid2947&theme=radical&no-frame=true&row=2&column=4)
 
 
 ## ✍️ Random Dev Quote
