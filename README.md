@@ -8,7 +8,7 @@
 
 ## 💫 About Me:  
 - 🚀 Tech enthusiast & software developer  
-- 👨‍💻 Working on ML projects, automation scripts, & AI tools  
+- 👨‍💻 Working on Full Stack projects, automation scripts, & AI tools  
 - 🔍 Passionate about data analysis, trading algorithms, & building cool tech  
 - 🌟 Love exploring new technologies & creating impactful solutions  
 
