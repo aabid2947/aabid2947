@@ -6,9 +6,6 @@
   </a>
 </p>
 
-<p>
-<iframe src="https://portfolio-alpha-neon-44.vercel.app/" width="100%" height="500px"></iframe>
-</p>
 
 ## 💫 About Me:  
 - 🚀 Tech enthusiast & software developer  
