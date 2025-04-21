@@ -2,6 +2,7 @@
 <p align="center">
   <img src="Portfolio.png" width="100%" alt="My Profile Image">
 </p>
+
 ## 💫 About Me:  
 - 🚀 Tech enthusiast & software developer  
 - 👨‍💻 Working on ML projects, automation scripts, & AI tools  
