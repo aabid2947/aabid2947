@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Portfolio.png" width="150" alt="My Profile Image">
+  <img src="Portfolio.png" width="100%" alt="My Profile Image">
 </p>
 ## 💫 About Me:  
 - 🚀 Tech enthusiast & software developer  
