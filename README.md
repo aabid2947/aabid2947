@@ -70,6 +70,8 @@
 
 
 ---
+### 📊 Leetcode Stats
+[![Aabid’s LeetCode Stats](https://leetcode-stats.vercel.app/api?username=aabid2947&theme=dark)](https://leetcode.com/u/aabid2947/)
 
 ## 🏆 GitHub Trophies
 - ![trophy](https://github-profile-trophy.vercel.app/?username=aabid2947&theme=radical&no-frame=true&row=2&column=4)
